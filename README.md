@@ -7,3 +7,7 @@ https://www.nkp.hu/tankonyv/digitalis-kultura-okosgyujtemeny-9-12/
 #gyakorlat python
 
 https://kozep.sulipy.hu/
+
+#gyakorlat SQL
+
+https://sql.sulipy.hu/gyakorlo
