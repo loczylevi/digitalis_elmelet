@@ -11,3 +11,9 @@ https://kozep.sulipy.hu/
 #gyakorlat SQL
 
 https://sql.sulipy.hu/gyakorlo
+
+
+
+éppen it tarok
+
+https://www.nkp.hu/tankonyv/digitalis_kultura_9_nat2020/lecke_01_001
